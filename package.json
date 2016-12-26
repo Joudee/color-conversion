@@ -1,0 +1,11 @@
+{
+  "name": "color-conversion",
+  "version": "1.0.0",
+  "description": "transform color to any type such 'rgb' or 'hsl'",
+  "main": "lib/color.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joudee",
+  "license": "ISC"
+}
