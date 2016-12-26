@@ -34,4 +34,4 @@ color.toRGB(); //[60,64,57]
 ```
 
 ## Method
-The library has three methods.That is [toRGB],[toHSL] and [toHex].The method will return an array incloude the transformational color. 
+The library has three methods.That is [toRGB](),[toHSL]() and [toHex]().The method will return an array incloude the transformational color. 
