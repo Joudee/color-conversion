@@ -19,9 +19,13 @@ or
 ```js
 import Color from "color-conversion"
 ```
-You can also use it in HTML:
+To use color-conversion from a browser,download 'color.js' from this repository.Then, add it as a script tag to your page:
 ```js
 <script type="text/javascript" src='color.js'></script>
+<script>
+    var color = Color("rgb(255, 255, 255)");	//It's also can be 'var color = Color("255, 255, 255")';
+    color.toHSL();  		//[3,0,100]
+</script>
 ```
 
 ## Setters
