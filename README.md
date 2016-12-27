@@ -19,7 +19,10 @@ or
 ```js
 import Color from "color-conversion"
 ```
-You can also use it in HTML with [<script></script>]().
+You can also use it in HTML:
+```js
+<script type="text/javascript" src='color.js'></script>
+```
 
 ## Setters
 
