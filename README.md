@@ -41,4 +41,4 @@ color.toHSL(); //[100,0,100]
 
 
 ## Method
-The library has three methods.That is [toRGB](),[toHSL]() and [toHex]().The method will return an array include the transformational color. 
+The library has three methods.That is [toRGB](),[toHSL]() and [toHex]().The method will return an array include the transformational color. Why did it return array instead of string that such as 'rgb(0,0,0)'?When you transform the color to HSL,you plan to change the Saturation or Lightness,just to count the array and turn the result to 'hsl(0,0,0)' by yourself immediately.

@@ -1,6 +1,6 @@
 {
   "name": "color-conversion",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "transform color to any type such 'rgb' or 'hsl'",
   "main": "lib/color.js",
   "scripts": {
